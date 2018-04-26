@@ -1,15 +1,16 @@
-Configuration and usage
+Configuration et utilisation
 -----------------------
 
-Headers
+Titre
 ^^^^^^^
 
-**Menu** : `Setup > Dropdowns : Forms > Headers`
+**Menu** : `Configuration > Menu déroulant : Formulaires > Titres`
 
-Headers are rich texts _(text with presentation: bold, italic, titles, colors, etc.)_ which are defined per entities.  
-They can be translated since GLPI 0.85 like all other dropdowns  
-_(Dropdowns translation must be enabled on GLPI general configuration page: Setup > General : General setup > Translate dropdowns = Yes)_.
+Les titres sont au format texte riche _(texte avec présentation: gras, italique, titres, couleurs, etc.)_ définis par entités.  
+Ils peuvent être traduits à partir de GLPI 0.85 comme tous les menus déroulans
+_(la traduction de menus déroulants doit être activée sur la page de configuration générale : Configuration > General : configuration générale > traduction des menus = Yes)_.
 
+Ces textes sont présentés sous forme d'utilisateur 
 These texts are shown on the users forms list, over the forms.  
 It can be used to indicate some general advertisement over all the forms below.
 
@@ -18,12 +19,12 @@ Configuration
 
 .. image:: images/headers-config.png
 
-Render
+Prévisualiser
 ++++++
 
 .. image:: images/headers-front.png
 
-Categories
+Catégories
 ^^^^^^^^^^
 
 **Menu** : `Setup > Dropdowns : Forms > Form categories`
@@ -48,7 +49,7 @@ Configuration
 
 .. image:: images/categories-config.png
 
-Render
+Prévisulisation
 ++++++
 
 .. image:: images/categories-front.png
